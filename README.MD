@@ -19,6 +19,4 @@ Para inicializar o projeto é necessário rodar o comando npm run dev no seu ter
 
 Futuramente serão implementadas algumas melhorias de layout e responsividade.
 
-A RecriAr ainda está em andamento, algumas melhorias estão sendo implantadas. Continue nos acompanhando para atualizações.
-
 
