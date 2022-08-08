@@ -6,7 +6,7 @@ Esse projeto tem como objetivo aplicar alguns conhecimentos de React adiquiridos
 
 Temos 1 projeto feito, sendo:
 
-Projeto casa: Meu Diário Reprograma, site totalmente feito utilizando props para recebimento das informações dos diversos componentes da página.
+***Projeto casa:*** Meu Diário Reprograma, site totalmente feito utilizando props para recebimento das informações dos diversos componentes da página.
 
 As tecnologias utilizadas foram:
 
