@@ -1,20 +1,24 @@
-# Projeto React I - Semana 14 {Reprograma}
+# Projeto React I
 
-## O que foi aprendido nessa semana??
+![Gif Hello World](https://webartdevelopers.com/blog/wp-content/uploads/2021/01/hello-world.gif)
 
-* O que é e quem usa React?
-### React é uma biblioteca JavaScript rápida, escalável e simples, utilizada para construir aplicações de página única podendo ser usada com outras bibliotecas ou frameworks, é utilizada em sites como Facebook, Instagram, WhatsApp, Twitter, Netflix, Airbnb, Notion, Trello, Tiktok e muitas outras gigantes.
+Esse projeto tem como objetivo aplicar alguns conhecimentos de React adiquiridos na aula da semana 14 da Reprograma.
 
-* Preparação de ambientes
-### Criando e entendendo o meu primeiro projeto nessa linguagem.
+Temos 1 projeto feito, sendo:
 
-* Componentes
-### Que são como funções JavaScript. Aceitando entradas como propriedades (chamadas “props”) e retornando novos elementos React, os chamados JSX.
+Projeto casa: Meu Diário Reprograma, site totalmente feito utilizando props para recebimento das informações dos diversos componentes da página.
 
-* Props
-### Props, que é uma abreviação de properties, ou propriedades, são informações que podem ser passadas para um componente. Pode ser uma string, um número, até mesmo uma função. Este valor pode então ser utilizado pelo componente que a recebe.
+As tecnologias utilizadas foram:
 
-* Simara Conceição
-### Além de todo aprendizado proporcionado, pude conhecer a Simara, a pessoa que me inspirou diretamente para a transição de carreira e me apresentou a {Reprograma}.
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **React**
+
+Para inicializar o projeto é necessário rodar o comando npm run dev no seu terminal de preferência.
+
+Futuramente serão implementadas algumas melhorias de layout e responsividade.
+
+A RecriAr ainda está em andamento, algumas melhorias estão sendo implantadas. Continue nos acompanhando para atualizações.
 
 
